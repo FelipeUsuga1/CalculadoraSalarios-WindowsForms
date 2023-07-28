@@ -1,0 +1,5 @@
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto4\libPunto4\bin\Debug\libPunto4.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto4\libPunto4\bin\Debug\libPunto4.pdb
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto4\libPunto4\obj\Debug\libPunto4.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto4\libPunto4\obj\Debug\libPunto4.dll
+C:\Users\usuario\Desktop\ProgSw\Taller #1\libPunto4\libPunto4\obj\Debug\libPunto4.pdb
